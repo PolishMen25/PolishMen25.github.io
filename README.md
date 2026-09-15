@@ -1,2 +1,5 @@
 # PolishMen25.github.io
-Personal IT portfolio — infrastructure, systems, homelab and sovereign local AI.
+
+Source of the personal IT portfolio at [polishmen25.github.io](https://polishmen25.github.io).
+
+Focus: infrastructure, systems, networks, virtualisation, homelab engineering and sovereign local AI.
